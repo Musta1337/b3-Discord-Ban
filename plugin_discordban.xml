@@ -1,0 +1,12 @@
+<configuration plugin="discordban">
+  <settings name="data">
+    <set name="webhookUrl">WEBHOOK URL</set>
+	<set name="hostname">SERVERNAME</set>
+	<set name="clanName">Virtual Matrix Clan Ltd.</set>
+	<set name="clanWebsite">https://vm-clan.net/</set>
+	<set name="clanIcon">https://i.imgur.com/mAm8QMv.png</set>
+	<set name="b3Version">Big Brother Bot v1.12</set>
+	<set name="clanBanAppeal">https://vm-clan.net/vb/forumdisplay.php?14-Unban-Request</set>
+	<set name="clanHeader">https://i.imgur.com/c8dO1fT.jpg</set>
+  </settings>
+</configuration>
